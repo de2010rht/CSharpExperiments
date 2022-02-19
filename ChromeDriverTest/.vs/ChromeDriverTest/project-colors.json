@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52cb2462-0c24-4d19-a3eb-2816e17233b3": {
+      "ProjectGuid": "52cb2462-0c24-4d19-a3eb-2816e17233b3",
+      "DisplayName": "ChromeDriverTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

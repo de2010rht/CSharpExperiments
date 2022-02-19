@@ -1,0 +1,6 @@
+D:\My Works\workspaceVS\MathematicsOverloaded\bin\Debug\MathematicsOverloaded.dll
+D:\My Works\workspaceVS\MathematicsOverloaded\bin\Debug\MathematicsOverloaded.pdb
+D:\My Works\workspaceVS\MathematicsOverloaded\obj\Debug\MathematicsOverloaded.csproj.CoreCompileInputs.cache
+D:\My Works\workspaceVS\MathematicsOverloaded\obj\Debug\MathematicsOverloaded.dll
+D:\My Works\workspaceVS\MathematicsOverloaded\obj\Debug\MathematicsOverloaded.pdb
+D:\My Works\workspaceVS\MathematicsOverloaded\obj\Debug\MathematicsOverloaded.csproj.AssemblyReference.cache

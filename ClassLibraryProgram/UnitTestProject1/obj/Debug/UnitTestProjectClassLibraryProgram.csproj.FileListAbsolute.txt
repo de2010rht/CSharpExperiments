@@ -1,0 +1,17 @@
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\ClassLibraryProgram.dll
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\ClassLibraryProgram.pdb
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\obj\Debug\UnitTestProjectClassLibraryProgram.csproj.AssemblyReference.cache
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\obj\Debug\UnitTestProjectClassLibraryProgram.csproj.CoreCompileInputs.cache
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\obj\Debug\UnitTestProjectClassLibraryProgram.csproj.CopyComplete
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\My Works\workspaceVS\ClassLibraryProgram\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

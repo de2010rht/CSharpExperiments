@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e95cee9f-7ab9-40af-a328-e62b23675eea": {
+      "ProjectGuid": "e95cee9f-7ab9-40af-a328-e62b23675eea",
+      "DisplayName": "MathematicsOverloaded",
+      "ColorIndex": 0
+    },
+    "beeadb4c-b8ff-4a9e-a5f5-1732fce5ac27": {
+      "ProjectGuid": "beeadb4c-b8ff-4a9e-a5f5-1732fce5ac27",
+      "DisplayName": "MathematicsOverloadedUnitTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22fdf6fd-a0aa-49d0-aabf-04046bde1d7a": {
+      "ProjectGuid": "22fdf6fd-a0aa-49d0-aabf-04046bde1d7a",
+      "DisplayName": "DelegateLambda",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

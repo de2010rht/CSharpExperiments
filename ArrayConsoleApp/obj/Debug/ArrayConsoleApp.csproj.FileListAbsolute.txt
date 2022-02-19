@@ -1,0 +1,8 @@
+D:\My Works\workspaceVS\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.exe.config
+D:\My Works\workspaceVS\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.exe
+D:\My Works\workspaceVS\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.pdb
+D:\My Works\workspaceVS\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csproj.AssemblyReference.cache
+D:\My Works\workspaceVS\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\My Works\workspaceVS\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csproj.CoreCompileInputs.cache
+D:\My Works\workspaceVS\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.exe
+D:\My Works\workspaceVS\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.pdb
